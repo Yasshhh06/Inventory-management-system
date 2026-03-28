@@ -1,5 +1,4 @@
-# 📦 Inventory Management System (Attractive README)
-
+# 📦 Inventory Management System
 ```markdown
 # 📦 Inventory Management System
 
