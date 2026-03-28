@@ -111,7 +111,7 @@ Licensed under the **MIT License**
 ## 👨‍💻 Author
 
 **Yash Mohite**
-🔗 GitHub: [https://github.com/Yashhhh06](https://github.com/Yashhhh06)
+🔗 GitHub: [https://github.com/Yashhhh06](https://github.com/Yasshhh06)
 
 ---
 
