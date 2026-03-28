@@ -1,24 +1,36 @@
-# Inventory Management System
+# 📦 Inventory Management System
 
-A simple PHP web system for managing an inventory.  
-  
+A web-based inventory management system to track, manage, and organize products efficiently.
 
-## Installation
-* Clone the repository and move the root folder to the deployment folder of your browser. (for Apache, this is htdocs)
-* Create a blank DB called *shop_inventory* in MySQL
-* Load the sql dump to the newly created _shop_inventory_ database
-* Change the root url of your website in [constants.php](inc/config/constants.php) file
+## 🚀 Project Overview
+This system helps businesses manage stock, monitor inventory levels, and streamline operations.
 
-## Requirements
-* PHP
-* MySQL
-* Apache
-* Google Chrome web browser (JavaScript enabled)
-* Internet connection with a reasonable speed
+## ✨ Features
+- Add / Update / Delete products
+- Stock management
+- Search & filter items
+- User-friendly dashboard
 
-## Usage
-* Access the login.php file from via browser and give _guest_ as username and _1234_ as password
+## 🧱 Tech Stack
+- Frontend: HTML, CSS, JavaScript
+- Backend: (mention your tech: Node.js / PHP)
+- Database: MySQL
 
+## 📁 Project Structure
+inventory/
+│── frontend/
+│── backend/
+│── database/
 
-## Acknowledgments
-* Inspired by many similar projects online
+## ⚙️ Setup
+1. Clone repository
+2. Setup database
+3. Run server
+
+## 🎯 Future Enhancements
+- Barcode scanning
+- Reports & analytics
+- Role-based access
+
+## 👨‍💻 Author
+Yash Mohite
