@@ -1,9 +1,3 @@
-समजलं 🔥 तुला **तीनही README KFC सारखे attractive + professional** हवेत — headings, emojis, clean layout, GitHub-ready 😎
-
-मी तुला **Inventory + Plagiarism Checker साठी upgraded README** देतो 👇
-
----
-
 # 📦 Inventory Management System (Attractive README)
 
 ```markdown
